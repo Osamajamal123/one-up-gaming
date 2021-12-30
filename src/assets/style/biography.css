@@ -1,0 +1,17 @@
+/* list_start_here */
+.biography_container .list_container_color {
+  background-color: #2e2e33;
+}
+.biography_container .list_container_color .border_container{
+  border: 1px solid #43464d;
+}
+.biography_container .border_color {
+  border-right: 1px solid #43464d;
+}
+.biography_container .text_color {
+  color: #c8c9d0;
+}
+.biography_container .list_container_color .min-width{
+min-width: 1300px;
+}
+/* //////// */
